@@ -1,0 +1,4 @@
+Package: ElectionsToolbox
+Type: Package
+Title: Tools for working with election simulation
+Version: 0.0.1.0
